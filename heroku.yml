@@ -1,0 +1,9 @@
+build:
+
+  docker:
+
+      worker: /sulthan/Dockerfile
+
+run:
+
+   worker: npm start
