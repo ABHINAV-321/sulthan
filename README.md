@@ -8,11 +8,11 @@
 <a href="#"><img title="SULTAN" src="https://img.shields.io/badge/SULTHAN-BOT-yellowgreen"></a>
 </p>
   <p align="center">
-<a href="https://github.com/SHADOW-HUNTER-ME"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ABHINAV-blue"></a>
+<a href="https://github.com/ABHINAV-321"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ABHINAV-blue"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/SHADOW-HUNTER-ME">ABHINAV</a> to make it public
+Project created by <a href="https://github.com/ABHINAV-321">ABHINAV</a> to make it public
     <br>
        | © |
         Reserved |
@@ -29,7 +29,7 @@ Project created by <a href="https://github.com/SHADOW-HUNTER-ME">ABHINAV</a> to 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Husniser/MAALUTTYV3-QR)
   
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SHADOW-HUNTER-ME/SULTHAN) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ABHINAV-321/SULTHAN) 
  
 ### difficult method 
 ```js
@@ -53,12 +53,12 @@ $ node maalutty.js
 ----
 
   <p align="center">
-  <a href="httsp://github.com/nijin-husni/MAALUTTY_V3">
+  <a href="httsp://github.com/ABHINAV-321/SULTHAN">
     
 <a href="https://github.com/farhan-dqz/followers">
 <img src="https://img.shields.io/github/repo-size/farhan-dqz/Julie-Mwol?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/nijin-husni/followers"
+<a href="https://github.com/ABHINAV-321/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/nijin-husni?color=blue&style=flat-square"></a>
 <a href="https://github.com/nijin-husni/MAALUTTY_V3/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/nijin-husni/MAALUTTY_V3?color=blue&style=flat-trangle"></a>
 <a href="https://github.com/nijin-husni/MAALUTTY_V3/network/members"><img title="Forks" src="https://img.shields.io/github/forks/nijin-husni/MAALUTTY_V3?color=blue&style=flat-trangle"></a>
