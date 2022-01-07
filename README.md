@@ -19,7 +19,7 @@ Project created by <a href="https://github.com/ABHINAV-321">ABHINAV</a> to make 
     <br> 
 </p>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=redhat.svg&icon_color=%23958E8E&title=Vivers&edge_flat=false)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FABHINAV-321%2FSULTHAN&count_bg=%2325AA10&title_bg=%23EBB900&icon=redhat.svg&icon_color=%23FF0000&title=Views&edge_flat=false)
 
 ## connecting to whatsapp
 <div align="center">
