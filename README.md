@@ -60,8 +60,8 @@ $ node maalutty.js
 <p align="center">
 <a href="https://github.com/ABHINAV-321/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/nijin-husni?color=blue&style=flat-square"></a>
-<a href="https://github.com/ABHINAV-321/SULTHAN/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/nijin-husni/MAALUTTY_V3?color=blue&style=flat-trangle"></a>
-<a href="https://github.com/ABHINAV-321/SULTHAN/network/members"><img title="Forks" src="https://img.shields.io/github/forks/nijin-husni/MAALUTTY_V3?color=blue&style=flat-trangle"></a>
+<a href="https://github.com/ABHINAV-321/SULTHAN/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ABHINAV-321/SULTHAN?color=blue&style=flat-trangle"></a>
+<a href="https://github.com/ABHINAV-321/SULTHAN/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ABHINAV-321/SULTHAN?color=blue&style=flat-trangle"></a>
 </p>
 
 ## 📢 Guide
