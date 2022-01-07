@@ -26,7 +26,7 @@ Project created by <a href="https://github.com/ABHINAV-321">ABHINAV</a> to make 
 
   ### Simple Method
  
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Husniser/MAALUTTYV3-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@User5685/Sulthanv1Qr)
   
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ABHINAV-321/SULTHAN) 
