@@ -250,7 +250,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
 
                 if (commits.total === 0) {
 
-                    await conn.sendMessage(conn.user.jid, fs.readFileSync("./photo/maalutty.jpg"), MessageType.image, { caption: `*ʜᴇʏ ʙʀᴏ ᴍᴀᴀʟᴜᴛᴛʏ_ᴠ3 ᴡᴏʀᴋɪɴɢ ` + config.WORKTYPE + ` 🥂* \n\n*ᴛʜᴀɴᴋʏᴏᴜ ғᴏʀ ᴜsɪɴɢ ᴍᴀᴀʟᴜᴛᴛʏ_ᴠ3🥂*`});
+                    await conn.sendMessage(conn.user.jid,Lang.UPDATE, MessageType.text);
 
                 } else {
 
