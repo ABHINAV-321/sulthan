@@ -32,6 +32,7 @@ Project created by <a href="https://github.com/ABHINAV-321">ABHINAV</a> to make 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ABHINAV-321/SULTHAN) 
  
 ### difficult method 
+## 𝙳𝚎𝚙𝚕𝚘𝚢 𝚞𝚜𝚒𝚗𝚐 𝚝𝚎𝚛𝚖𝚞𝚡 👇
 ```js
 GET QR
 $ apt install git
