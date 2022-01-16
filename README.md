@@ -2,7 +2,7 @@
           <img src="https://i.ibb.co/RvGKqGG/IMG-20220101-154556.png" width="850" height="170"/>
 </p>
 <div align="center">
-        <img src="https://i.ibb.co/7nk0XFF/20220102-085047.png" alt="JPG" width="300" height="300"/>
+        <img src="/photo/logo.jpg" alt="JPG" width="300" height="300"/>
 </p>
 
 <a href="#"><img title="SULTAN" src="https://img.shields.io/badge/SULTHAN-BOT-yellowgreen"></a>
